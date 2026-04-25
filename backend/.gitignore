@@ -1,0 +1,12 @@
+# Go
+bin/
+build/
+
+# DB
+*.db
+
+# Env
+.env
+
+# Logs
+*.log
